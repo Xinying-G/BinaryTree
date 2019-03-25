@@ -17,10 +17,11 @@ Then comparing their ages of the most right leave and the most left leave until 
 Implement a game of survivor:
 
 ### How to run:
-'''
+```
 make survivor:
 ./survivvor
-'''
+
+```
 
 
 
